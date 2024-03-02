@@ -7,7 +7,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>BoomBang Alpha 0.1</title>
+        <title>BoomBang Alpha 0.1.1</title>
         <link rel="icon" href="https://pbs.twimg.com/media/ExjwN2RXEAQO5pn.png" />
       </head>
       <body>

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Navbar = () => {
   return (
@@ -12,23 +12,38 @@ const Navbar = () => {
       </div>
 
       <div className="flex items-center space-x-8 flex-grow justify-center">
-        <a href="#" className="text-white hover:text-gray-300 text-2xl no-underline">
+        <a
+          href="#"
+          className="text-white hover:text-gray-300 text-2xl no-underline"
+        >
           Inicio
         </a>
-        <a href="#" className="text-white hover:text-gray-300 text-2xl no-underline">
+        <a
+          href="#"
+          className="text-white hover:text-gray-300 text-2xl no-underline"
+        >
           Noticias
         </a>
-        <a href="#" className="text-white hover:text-gray-300 text-2xl no-underline">
+        <a
+          href="#"
+          className="text-white hover:text-gray-300 text-2xl no-underline"
+        >
           Rankings
         </a>
       </div>
-      
+
       <div className="flex items-center space-x-4">
-        <a href="#" className="text-white hover:text-gray-300 text-2xl no-underline">
-          Registrarse
-        </a>
-        <a href="#" className="text-white hover:text-gray-300 text-2xl no-underline">
+        <a
+          href="/login"
+          className="text-white hover:text-gray-300 text-2xl no-underline"
+        >
           Iniciar sesión
+        </a>
+        <a
+          href="#"
+          className="text-white hover:text-gray-300 text-2xl no-underline"
+        >
+          Registrarse
         </a>
       </div>
     </nav>
@@ -36,4 +51,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
