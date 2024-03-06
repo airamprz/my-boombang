@@ -1,6 +1,6 @@
-# Boombang - Alpha 0.1
+# Boombang 
 
-¡Bienvenido a la página web de Boombang! (Versión alpha 0.1 en desarrollo)
+¡Bienvenido a la página web de Boombang! (Versión alpha en desarrollo)
 
 ## Descripción
 
